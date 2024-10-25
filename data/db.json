@@ -82,14 +82,6 @@
       "characters": "Dan Garret, Ted Kord, Jaime Reyes"
     },
     {
-      "id": "dc-black",
-      "superhero": "Black Canary",
-      "publisher": "DC Comics",
-      "alter_ego": "Dinah Drake",
-      "first_appearance": "Flash Comics #86",
-      "characters": "Dinah Drake, Dinah Lance"
-    },
-    {
       "id": "marvel-spider",
       "superhero": "Spider Man",
       "publisher": "Marvel Comics",
@@ -168,24 +160,6 @@
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
       "characters": "Norrin Radd"
-    },
-    {
-      "id": "marvel-kapac",
-      "superhero": "Kapac",
-      "publisher": "Marvel Comics",
-      "alter_ego": "Sebastian Velasquez",
-      "first_appearance": "Comic University",
-      "characters": "Kapac",
-      "alt_image": "https://i.pinimg.com/originals/ea/fd/16/eafd1603d0937a7fe51208013cc84eb2.jpg"
-    },
-    {
-      "id": "marvel-Incaman",
-      "superhero": "Incaman",
-      "publisher": "Marvel Comics",
-      "alter_ego": "Inca peruano",
-      "first_appearance": "Comic Marvel #1",
-      "characters": "Inca peruano",
-      "alt_image": "https://imgcdn.stablediffusionweb.com/2024/3/15/8a36d0b6-3ccd-4c22-aadf-8ccf27ebcc93.jpg"
     }
   ]
 }
